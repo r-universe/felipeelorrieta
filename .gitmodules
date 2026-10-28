@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "iAR"]
 	path = iAR
-	url = https://github.com/cran/iAR
+	url = https://github.com/felipeelorrieta/iar-package
